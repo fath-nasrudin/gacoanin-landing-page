@@ -95,6 +95,38 @@ ul.nav {
   color: white;
 }
 
+/* ========= SECTIONS ========== */
+
+/* ====== Jumbotron Section ===== */
+.jumbotron_section {
+  background-color: #080a21;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  gap: 16px;
+}
+
+.jumbotron_image {
+  flex: 1 0 300px;
+}
+
+.jumbotron_content {
+  flex: 1 0 300px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.jumbotron_title {
+  font-size: 40px;
+  line-height: 1;
+}
+
+/* ========= END SECTIONS ========== */
+
 /* ========= UTILS ========== */
 .text-blue {
   color: #00b2d8;
