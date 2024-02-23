@@ -95,6 +95,12 @@ ul.nav {
   color: white;
 }
 
+.btn--secondary {
+  background-color: transparent;
+  color: #ec008c;
+  border: 2px solid #ec008c;
+}
+
 /* ====== Card Component ===== */
 .card-container {
   display: flex;
