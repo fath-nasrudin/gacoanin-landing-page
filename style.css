@@ -161,6 +161,25 @@ ul.nav {
   text-align: center;
 }
 
+/* ====== Menu Section ===== */
+.quotes_section {
+  background-color: #e6e6e6;
+  display: flex;
+  flex-direction: column;
+}
+
+.quotes__text {
+  font-size: 24px;
+  padding: 0 24px;
+}
+
+.quotes__footer {
+  font-size: 20px;
+  padding: 0 48px;
+  font-weight: 700;
+  align-self: flex-end;
+}
+
 /* ========= END SECTIONS ========== */
 
 /* ========= UTILS ========== */
