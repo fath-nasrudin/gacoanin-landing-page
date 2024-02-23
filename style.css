@@ -77,6 +77,24 @@ ul.nav {
   border-bottom: 2px solid #ec008c;
 }
 
+/* Button Component */
+.btn {
+  padding: 4px 16px;
+  font: inherit;
+  font-weight: 600;
+  border-radius: 16px;
+  border: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn--primary {
+  background-color: #ec008c;
+  color: white;
+}
+
 /* ========= UTILS ========== */
 .text-blue {
   color: #00b2d8;
