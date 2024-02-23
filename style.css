@@ -55,7 +55,7 @@ button:hover {
   font-weight: 900;
 }
 
-/* ====== Nav Component Section ===== */
+/* ====== Nav Component ===== */
 .nav {
   display: flex;
   gap: 16px;
