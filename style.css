@@ -55,6 +55,17 @@ button:hover {
   font-weight: 900;
 }
 
+/* Footer Component */
+.footer {
+  padding: 8px;
+  background-color: #080a21;
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* ====== Nav Component ===== */
 .nav {
   display: flex;
