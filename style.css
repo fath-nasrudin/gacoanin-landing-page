@@ -108,4 +108,8 @@ ul.nav {
   background-color: #fff;
 }
 
+.text-no-wrap {
+  white-space: nowrap;
+}
+
 /* ========= END UTILS ========== */
