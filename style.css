@@ -150,6 +150,17 @@ ul.nav {
   line-height: 1;
 }
 
+/* ====== Menu Section ===== */
+.menu_section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.menu_section>.title {
+  text-align: center;
+}
+
 /* ========= END SECTIONS ========== */
 
 /* ========= UTILS ========== */
