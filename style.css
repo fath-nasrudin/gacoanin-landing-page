@@ -1,0 +1,68 @@
+/* ========= RESET ========== */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #ec008c;
+}
+
+/* ========= END RESET ========== */
+
+
+/* ========== COMPONENTS SECTION ========== */
+
+/* Header and Logo Component Section */
+.header {
+  padding: 16px;
+  background-color: #080a21;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+/* ====== Nav Component Section ===== */
+.nav {
+  display: flex;
+  gap: 16px;
+}
+
+ul.nav {
+  list-style: none;
+}
+
+.nav a {
+  color: #ededed;
+}
+
+.nav li {
+  border-bottom: 2px solid transparent;
+}
+
+.nav li:hover {
+  border-bottom: 2px solid #ec008c;
+}
+
+/* ========= UTILS ========== */
+.text-blue {
+  color: #00b2d8;
+}
+
+.text-pink {
+  color: #ec008c;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+/* ========= END UTILS ========== */
