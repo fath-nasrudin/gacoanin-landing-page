@@ -186,6 +186,24 @@ ul.nav {
   align-self: flex-end;
 }
 
+/* ====== CTA Section ===== */
+.cta_section>div {
+  padding: 32px 64px;
+  border-radius: 16px;
+  background-color: #080a21;
+  color: white;
+
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cta_section .title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
 /* ========= END SECTIONS ========== */
 
 /* ========= UTILS ========== */
